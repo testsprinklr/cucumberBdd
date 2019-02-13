@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Config>
+    <Environment>
+        <appUrl>https://www.google.co.in/</appUrl>
+        <restApiUrl></restApiUrl>
+    </Environment>
+</Config>
